@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/robopunksnft/static/css/main.c179212e.css",
-    "main.js": "/robopunksnft/static/js/main.4dac2d7b.js",
-    "static/media/parallax-bg.gif": "/robopunksnft/static/media/parallax-bg.a753668321d10848110d.gif",
-    "index.html": "/robopunksnft/index.html",
-    "main.c179212e.css.map": "/robopunksnft/static/css/main.c179212e.css.map",
-    "main.4dac2d7b.js.map": "/robopunksnft/static/js/main.4dac2d7b.js.map"
+    "main.css": "/full-mint-website/static/css/main.994d1956.css",
+    "main.js": "/full-mint-website/static/js/main.4dac2d7b.js",
+    "static/media/parallax-bg.gif": "/full-mint-website/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/full-mint-website/index.html",
+    "main.994d1956.css.map": "/full-mint-website/static/css/main.994d1956.css.map",
+    "main.4dac2d7b.js.map": "/full-mint-website/static/js/main.4dac2d7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c179212e.css",
+    "static/css/main.994d1956.css",
     "static/js/main.4dac2d7b.js"
   ]
 }
